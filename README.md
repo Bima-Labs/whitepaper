@@ -18,7 +18,7 @@ programmable\.
 
 ## The white paper
 
-- [Read the PDF]([Bima_Programmable_Collateral_Finance.pdf](https://github.com/Bima-Labs/whitepaper/blob/main/Bima%20Whitepaper.pdf)
+- [Read the PDF]([Bima_Programmable_Collateral_Finance.pdf](https://github.com/Bima-Labs/whitepaper/blob/main/Bima%20Whitepaper.pdf))
 - [Read or modify the LaTeX source](Bima_Programmable_Collateral_Finance.tex)
 
 The paper is authored by Siddarth Sridhar\. It presents the motivation,
