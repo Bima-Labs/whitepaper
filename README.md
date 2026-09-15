@@ -19,7 +19,7 @@ programmable\.
 ## The white paper
 
 - [Read the PDF](https://github.com/Bima-Labs/whitepaper/blob/main/Bima%20Whitepaper.pdf)
-- [Read or modify the LaTeX source](Bima_Programmable_Collateral_Finance.tex)
+- [Read or modify the LaTeX source](https://github.com/Bima-Labs/whitepaper/blob/main/Bima_Whitepaper.tex)
 
 The paper is authored by Siddarth Sridhar\. It presents the motivation,
 financial mathematics, market lifecycle, permissionless contract model,
